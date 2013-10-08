@@ -11,7 +11,7 @@
   <packaging>jar</packaging>
   <groupId>org.webjars</groupId>
   <artifactId>fancy-select</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.3</version>
   <name>Octopus FancySelect</name>
   <description>WebJar for FancySelect</description>
   <url>http://webjars.org</url>
@@ -35,7 +35,7 @@
     <dependency>
       <groupId>org.webjars</groupId>
       <artifactId>zeptojs</artifactId>
-      <version>1.0rc1</version>
+      <version>1.0</version>
     </dependency>
   </dependencies>
 
